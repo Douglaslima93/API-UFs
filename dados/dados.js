@@ -134,7 +134,6 @@ const colecaoUf = [
         uf: "TO",
         nome: "Tocantins"
     }
-
 ]
 
 export default colecaoUf;
