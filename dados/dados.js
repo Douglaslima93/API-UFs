@@ -3,12 +3,13 @@ const colecaoUf = [
         id: 1,
         uf: "AC",
         nome: "Acre",
-        populacao: 830.026,
+        populacao: "830.026",
     },
     {
         id: 2,
         uf: "AL",
-        nome: "Alagoas"
+        nome: "Alagoas", 
+        populacao: "3.127.683",
     },
     {
         id: 3,
