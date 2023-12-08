@@ -14,7 +14,8 @@ const colecaoUf = [
     {
         id: 3,
         uf: "AM",
-        nome: "Amazonas"
+        nome: "Amazonas",
+        populacao: "4.000.234"
     },
     {
         id: 4,
