@@ -32,7 +32,8 @@ const colecaoUf = [
     {
         id: 6,
         uf: "CE",
-        nome: "Ceará"
+        nome: "Ceará",
+        populacao: ""
     },
     {
         id: 7,
