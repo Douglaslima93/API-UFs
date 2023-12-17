@@ -38,7 +38,8 @@ const colecaoUf = [
     {
         id: 7,
         uf: "DF",
-        nome: "Distrito Federal"
+        nome: "Distrito Federal",
+        populacao: ""
     },
     {
         id: 8,
