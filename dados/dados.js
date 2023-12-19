@@ -44,7 +44,8 @@ const colecaoUf = [
     {
         id: 8,
         uf: "ES",
-        nome: "Espirito Santo"
+        nome: "Espirito Santo",
+        populacao: ""
     },
     {
         id: 9,
