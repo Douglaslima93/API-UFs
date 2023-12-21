@@ -50,7 +50,8 @@ const colecaoUf = [
     {
         id: 9,
         uf: "GO",
-        nome: "Goiás"
+        nome: "Goiás",
+        populacao: ""
     },
     {
         id: 10,
