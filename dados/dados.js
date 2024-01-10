@@ -56,7 +56,8 @@ const colecaoUf = [
     {
         id: 10,
         uf: "MA",
-        nome: "Maranhão"
+        nome: "Maranhão",
+        populacao: ""
     },
     {
         id: 11,
